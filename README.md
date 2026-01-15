@@ -3,9 +3,9 @@
 Este portafolio reúne trabajos de relevamiento arquitectónico desarrollados con fines académicos.
 
 ## Proyectos incluidos
-- Relevamiento arquitectónico académico
-- Relevamiento de edificación
-- Relevamiento industrial (caso de estudio anonimizado)
+- Relevamiento arquitectónico académico. Dibujo Técnico y Planos
+[Ver proyecto (PDF)](Relevamiento_Arquitectonico_Comedores_Edificio12.pdf)
+
 
 ## Software utilizado
 - AutoCAD
