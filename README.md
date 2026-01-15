@@ -1,7 +1,5 @@
 <div align="center">
 
-<h1>PORTAFOLIO</h1>
-
 <h3>Myriam Alvarado Mora</h3>
 
 <p><em>Ingeniería Civil</em></p>
@@ -42,24 +40,3 @@ orientados al dibujo técnico, levantamiento arquitectónico y elaboración de p
 <ul>
   <li>Autodesk AutoCAD</li>
 </ul>
-
-## Autora: Myriam Alvarado Mora
-
-Este portafolio reúne trabajos de relevamiento arquitectónico desarrollados con fines académicos, orientados al dibujo técnico, levantamiento arquitectónico y elaboración de planos.
-
----
-
-## Proyecto destacado
-
-### Relevamiento arquitectónico académico
-**Alcance del trabajo:**
-- Dibujo técnico arquitectónico
-- Elaboración de plantas, cortes y fachadas
-- Documentación gráfica para edificio educativo
-
- 📁 [Ver proyecto (PDF)](Relevamiento_Arquitectonico_Comedores_Edificio12.pdf)
-
----
-
-## Software utilizado
-- Autodesk AutoCAD
