@@ -1,4 +1,3 @@
-<br>
 ## Autora: Myriam Alvarado Mora
 
 Este portafolio reúne trabajos de relevamiento arquitectónico desarrollados con fines académicos, orientados al dibujo técnico, levantamiento arquitectónico y elaboración de planos.
