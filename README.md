@@ -50,11 +50,12 @@ orientados al dibujo técnico, levantamiento arquitectónico y elaboración de p
   <li>Documentación técnica de planos para vivienda unifamiliar</li>
 </ul>
 
-<p>
-📂<a href="PROYECTO_VIVIENDA_UNIFAMILIAR.pdf" target="_blank">
 
-<strong>Ver proyecto (PDF)</strong>
+<p>
+<a href="Proyecto_Revit_Vivienda_Unifamiliar.pdf" target="_blank">
+  <strong>Ver proyecto (PDF)</strong>
 </a>
+
 </p>
 
 
