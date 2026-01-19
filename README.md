@@ -40,6 +40,8 @@ orientados al dibujo técnico, levantamiento arquitectónico y elaboración de p
 <ul>
   <li>Autodesk AutoCAD</li>
 </ul>
+
+<hr>
 <h3>Modelado de Vivienda Unifamiliar</h3>
 
 <p><strong>Alcance del trabajo:</strong></p>
