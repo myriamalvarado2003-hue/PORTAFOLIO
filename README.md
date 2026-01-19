@@ -40,3 +40,26 @@ orientados al dibujo técnico, levantamiento arquitectónico y elaboración de p
 <ul>
   <li>Autodesk AutoCAD</li>
 </ul>
+<h3>Modelado de Vivienda Unifamiliar</h3>
+
+<p><strong>Alcance del trabajo:</strong></p>
+
+<ul>
+  <li>Modelado arquitectónico 3D</li>
+  <li>Elaboración de planos de plantas, cortes y fachadas con mobiliario</li>
+  <li>Documentación técnica de planos para vivienda unifamiliar</li>
+</ul>
+
+<p>
+📂 <a href="PROYECTO_VIVIENDA_UNIFAMILIAR.pdf" target="_blank">
+<strong>Ver proyecto (PDF)</strong>
+</a>
+</p>
+
+<hr>
+
+<h4>Software utilizado</h4>
+
+<ul>
+  <li>Autodesk Revit</li>
+</ul>
