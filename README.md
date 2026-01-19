@@ -52,10 +52,9 @@ orientados al dibujo técnico, levantamiento arquitectónico y elaboración de p
 
 
 <p>
-<a href="Proyecto_Revit_Vivienda_Unifamiliar.pdf" target="_blank">
+📂 <a href="Proyecto_Revit_Vivienda_Unifamiliar.pdf" target="_blank">
   <strong>Ver proyecto (PDF)</strong>
 </a>
-
 </p>
 
 
